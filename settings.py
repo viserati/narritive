@@ -29,7 +29,7 @@ ALLOWED_HOSTS = []
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 
 
-# Application definition
+# Application definition:
 
 INSTALLED_APPS = [
     'django.contrib.admin',
